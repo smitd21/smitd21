@@ -42,7 +42,7 @@
 
 <details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact](https://github.com/smitd21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact)](https://github.com/smitd21)
 
 </details>
 <details>
