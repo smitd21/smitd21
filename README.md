@@ -35,7 +35,7 @@
 <img align="left" alt="React" width="66px" height="22px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Node.js" width="66px" height="22px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Git" width="66px" height="22px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-[<img align="left" alt="GitHub" width="66px" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
+<img align="left" alt="GitHub" width="66px" height="22px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 <br />
 <br />
@@ -53,7 +53,6 @@
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smitd21&show_icons=true&hide_border=true" />
 </details>
 
-[github]: https://github.com/smitd21
 [website]: https://elastic-yonath-8f6ecf.netlify.app/
 [twitter]: https://twitter.com/smitcodes
 [instagram]: https://instagram.com/smit.desai10
