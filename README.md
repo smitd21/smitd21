@@ -41,10 +41,14 @@
 ---
 
 <details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact](https://github.com/smitd21)
+
+</details>
+<details>
   <summary>Smit's GitHub Stats</summary>
 
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smitd21&show_icons=true&hide_border=true" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact](https://github.com/smitd21)
 </details>
 
 [website]: https://elastic-yonath-8f6ecf.netlify.app/
