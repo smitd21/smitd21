@@ -44,9 +44,16 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
+</a>
 
-[![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 📊 How much I love to code...
 
