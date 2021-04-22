@@ -43,6 +43,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 
 <br />
