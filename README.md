@@ -42,12 +42,16 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<table>
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical"/>
+<div>
+<!-- <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical"/></td>
   </tr>
-</table>
+</table> -->
 
 ## 📊 How much I love to code...
 
