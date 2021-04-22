@@ -50,6 +50,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 </a>
+<br/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
