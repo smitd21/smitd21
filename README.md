@@ -47,6 +47,7 @@
 
 <br />
 <br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical" />
 
 ## 📊 How much I love to code...
 
