@@ -44,7 +44,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 
 <details>
   <summary>📊 How much I love to code...</summary>
