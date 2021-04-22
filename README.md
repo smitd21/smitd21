@@ -58,7 +58,7 @@
 ## 📊 How much I love to code...
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical" />
 </a>
 
 <!-- [![Smit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
