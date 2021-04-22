@@ -40,8 +40,6 @@
 <br />
 <br />
 
----
-
 ## &#x1f4c8; My GitHub Stats
 
 <a>
@@ -50,8 +48,9 @@
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 </a>
+---
 
-<!-- ## 📊 How much I love to code... -->
+## 📊 How much I love to code...
 
 [![Smit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
