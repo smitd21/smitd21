@@ -43,10 +43,10 @@
 ## &#x1f4c8; My GitHub Stats
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 </a>
 ---
 
