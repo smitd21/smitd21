@@ -44,14 +44,12 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<div>
-  <a>
+<a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" />
-  </a>
-  <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
-  </a>
-</div>
+</a>
+<a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
+</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -59,7 +57,7 @@
 <br />
 <br />
 
-## 📊 How much I love to code...
+<!-- ## 📊 How much I love to code... -->
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical" />
