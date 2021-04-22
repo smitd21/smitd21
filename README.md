@@ -46,12 +46,12 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical" />
 
-<br />
-<br />
-
-## 📊 How much I love to code...
+<details>
+  <summary>📊 How much I love to code...</summary>
 
 [![Smit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 <!-- <details>
 
