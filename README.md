@@ -19,15 +19,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
-
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### 🧰 Languages and Tools:
 
 <h3 align="left">Languages & Tools:</h3>
@@ -54,13 +45,15 @@
 <a href="https://github.com/smitd21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
+### ✌🏼 Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ## &#x1f4c8; My GitHub Stats
 
-<!--
-<div>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical" style="max-width:100% ; margin-right:25px;"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical"/>
-<div> -->
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&hide=java&theme=radical"/></td>
@@ -72,6 +65,11 @@
 
 [![Smit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Check out my Projects:
+
+<p>
+Check the pinned repositories below. 👇
+</p>
 <!-- <details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact)](https://github.com/smitd21)
