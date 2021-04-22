@@ -1,4 +1,4 @@
-### Hi there, I'm Smit 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Smit
 
 [![Website](https://img.shields.io/website?label=sddevs.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://elastic-yonath-8f6ecf.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/smitcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=smitcodes)
@@ -27,7 +27,7 @@
 
 <br />
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="HTML5" width="66px" height="22px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" width="66px" height="22px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,7 +42,13 @@
 
 ---
 
-<details>
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smid21&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Smit's GitHub stats](https://github-readme-stats.vercel.app/api?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smitd21&layout=compact)](https://github.com/smitd21)
 
@@ -51,7 +57,7 @@
   <summary>Smit's GitHub Stats</summary>
 
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smitd21&show_icons=true&hide_border=true" />
-</details>
+</details> -->
 
 [website]: https://elastic-yonath-8f6ecf.netlify.app/
 [twitter]: https://twitter.com/smitcodes
