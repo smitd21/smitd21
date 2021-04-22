@@ -68,7 +68,7 @@
 
 [![Smit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smitd21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Check out my Projects:
+### My Projects:
 
 <p>
 Check the pinned repositories below. 👇
