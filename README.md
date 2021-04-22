@@ -10,7 +10,7 @@
 
 - 🌱 Busy building new things🤣
 - 👯 I’m looking for job & internships opportunities.
-- 💬 Ask me about React, Node.js & JavaScript♥💓🧡❤⭐🌟
+- 💬 Ask me about React, Node.js & JavaScript ♥
 - 🥅 2021 Goals: Get my first job as a developer, start mentorship for absolute beginner's & do some Freelancing
 - 🌠 Future Goal: Contribute to Open Source
 - ⚡ Fun fact: I love to play football ⚽ and enjoy watching F1 🏎
