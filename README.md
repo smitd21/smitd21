@@ -83,7 +83,7 @@ Check the pinned repositories below. 👇
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=smitd21&show_icons=true&hide_border=true" />
 </details> -->
 
-[website]: https://elastic-yonath-8f6ecf.netlify.app/
+[website]: https://smitdesai.netlify.app/
 [twitter]: https://twitter.com/smitcodes
 [instagram]: https://instagram.com/smit.desai10
 [linkedin]: https://linkedin.com/in/smitbdesai
