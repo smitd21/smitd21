@@ -5,7 +5,8 @@
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smitbdesai)
 
 <p><img src="https://komarev.com/ghpvc/?username=smitd21" alt="counter" /></p>
-![code quality score] (https://www.code-inspector.com/project/22809/score/svg)
+<p><img src="https://www.code-inspector.com/project/22809/score/svg" alt="counter" /></p>
+
 
 ## 👨🏼‍💻 I'm a Front-end Developer
 
