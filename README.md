@@ -1,6 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Smit
 
 [![Website](https://img.shields.io/website?label=sddevs.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://smitdesai.netlify.app/)
+
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smitbdesai)
 [![Twitter Follow](https://img.shields.io/twitter/follow/smitcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=smitcodes)
 
