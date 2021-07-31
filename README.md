@@ -18,7 +18,7 @@
 - 🌠 Future Goal: Contribute to Open Source
 - ⚡ Fun fact: I love to play football ⚽ and enjoy watching F1 🏎
 
-### 🎧 Spotify Playing
+### 🎧 Spotify Playing -> React Podcasts
 
 [<img src="x.gif" alt="Smit's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
