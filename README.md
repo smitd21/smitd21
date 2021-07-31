@@ -20,7 +20,7 @@
 
 ### 🎧 Spotify Playing -> React Podcasts
 
-[<img src="x.gif" alt="Smit's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="x.gif" alt="Smit's Spotify Playing" width="350" />](https://open.spotify.com/user/31huoabyy4iip7pe5genwonrcwnm)
 
 
 <h3 align="left">🧰 Languages & Tools:</h3>
