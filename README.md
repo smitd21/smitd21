@@ -4,8 +4,8 @@
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smitbdesai)
 [![Twitter Follow](https://img.shields.io/twitter/follow/smitcodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=smitcodes)
 
-<p><img src="https://komarev.com/ghpvc/?username=smitd21" alt="counter" /></p>
-<span><img src="https://www.code-inspector.com/project/22809/score/svg" alt="counter" />      <img src="https://www.code-inspector.com/project/22809/status/svg" alt="counter" /></span>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=smitd21" alt="counter" /></p>
+<span><img src="https://www.code-inspector.com/project/22809/score/svg" alt="counter" />      <img src="https://www.code-inspector.com/project/22809/status/svg" alt="counter" /></span> -->
 
 
 
